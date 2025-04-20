@@ -7,7 +7,7 @@ The **Driving License Management System (DVLD)** is a **C# Windows Forms (.NET)*
 This project follows a **Three-Tier Architecture**, ensuring modularity, scalability, and maintainability:
 1. **Presentation Layer (UI)** – Developed using **C# Windows Forms (.NET)** for a user-friendly graphical interface.
 2. **Business Logic Layer (BLL)** – Manages core logic and processing for license applications, renewals, and verifications.
-3. **Data Access Layer (DAL)** – Handles database interactions with **Microsoft SQL Server** for secure data storage.
+3. **Data Access Layer (DAL)** – Handles database interactions with **Microsoft SQL Server** and **ADO.NET** for secure data storage.
 
 ## Core Services Provided
 - Issuing a new driving license ($5)
