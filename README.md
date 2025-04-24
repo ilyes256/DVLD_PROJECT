@@ -67,8 +67,8 @@ Once all tests are passed, a driving license is issued containing:
 ### Setup Steps
 1. Clone the repository
   
-2. Restore the database in SQL Server Management Studio (SSMS) using the provided .bak file
+2. Restore the database in SQL Server Management Studio (SSMS) using the provided **DVLD.bak** file
 
 3. Update app.config with the database connection string.
 
-4. Open the project in Visual Studio
+4. Open the project in Visual Studio using the solution file **DVLD.sln**
