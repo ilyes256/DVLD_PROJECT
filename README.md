@@ -1,7 +1,7 @@
-# Driving License Management System (DVLD Project)
+# Driving License Management System
 
 ## Overview
-The **Driving License Management System (DVLD)** is a **C# Windows Forms (.NET)** application designed to automate the process of issuing, renewing, and managing driving licenses. It includes features such as application processing, license verification, examination scheduling, and user management.
+The **Driving License Management System** is a **C# Windows Forms (.NET)** application designed to automate the process of issuing, renewing, and managing driving licenses. It includes features such as application processing, license verification, examination scheduling, and user management.
 
 ### Three-Tier Architecture
 This project follows a **Three-Tier Architecture**, ensuring modularity, scalability, and maintainability:
